@@ -1,5 +1,5 @@
 ## Awesome_Recipes
-![1_0HP2je9Tcm-64J4S-lQSgA](https://user-images.githubusercontent.com/42229194/55285824-3daa3500-53bd-11e9-9dc5-b533f34c6178.png)
+
 
 Creating a recipes web application using react JS and several API to make it happen. No using any database. Implement the Dev from youtube tutorial.
 
